@@ -1,0 +1,2 @@
+# This is a small project where we have drums on the UI and when we click on them they will generate different sounds and we can click on the keywords displayed on the screen by using keyboard.
+# This project is done using html,js.
